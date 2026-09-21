@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Learn the Basics/04. install-git.md",
+                "file": "02. What is a Repository/06. git-committing-changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. install-git"
+              "title": "06. git-committing-changes"
             }
           }
         ]
@@ -190,8 +190,15 @@
   },
   "active": "a775fbc483182379",
   "lastOpenFiles": [
-    "01. Learn the Basics/03. git-vs-other-version-control-systems.md",
+    "02. What is a Repository/05. git-staging-area.md",
+    "02. What is a Repository/06. git-committing-changes.md",
+    "02. What is a Repository/04. git-working-directory.md",
+    "02. What is a Repository/03. git-local-vs-global-config.md",
+    "02. What is a Repository/02. git-config.md",
+    "02. What is a Repository/01. git-init.md",
     "01. Learn the Basics/04. install-git.md",
+    "02. What is a Repository",
+    "01. Learn the Basics/03. git-vs-other-version-control-systems.md",
     "01. Learn the Basics/02. benefits-of-version-control.md",
     "01. Learn the Basics/01. what-is-version-control.md",
     "Welcome.md",
